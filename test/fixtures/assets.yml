@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/Fixtures.html
+
+one:
+  type: 
+  start: MyString
+  finish: MyString
+
+two:
+  type: 
+  start: MyString
+  finish: MyString
